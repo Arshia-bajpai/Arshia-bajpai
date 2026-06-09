@@ -22,7 +22,6 @@ Right now I am working on machine learning projects that sit at the intersection
 `Python` `Pandas` `Scikit-learn` `GeoPandas` `Matplotlib` `Jupyter`
 
 ## Currently
-
-Applying to graduate programs in environmental policy and environmental science. Open to conversations about research, collaboration, or anything in the space of climate and policy.
+ Open to conversations about research, collaboration, or anything in the space of climate and policy.
 
 New Delhi, India
